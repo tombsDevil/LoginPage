@@ -5,15 +5,14 @@
 ![css3](https://img.icons8.com/color/40/000000/css3.png)
 ![vscode](https://img.icons8.com/color/40/000000/visual-studio-code-2019.png)
 
-#
 
 ## **Apresentação da página:**
 
 ![imagem](https://i.imgur.com/xOBMfIr.png)
 
-#
 
  ## **Créditos:**
  * *tombsDevil ^^*
  * [MarkZuel](https://www.youtube.com/watch?v=69-WfrVBli8) (*Vídeo como inspiração*)
 
+##### Ps: Fiquem à vontade em usar este repositório! Caso se interesse em fazer alguma alteração aqui crie um fork e solicite a pull request. ^^
