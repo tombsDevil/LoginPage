@@ -13,5 +13,7 @@
 
 #
 
-> **Créditos:** *tombsDevil ^^*
+ ## **Créditos:**
+ * *tombsDevil ^^*
+ * [MarkZuel](https://www.youtube.com/watch?v=69-WfrVBli8) (*Vídeo como inspiração*)
 
