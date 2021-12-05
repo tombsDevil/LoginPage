@@ -12,7 +12,7 @@
 
 
  ## **Créditos:**
- * *tombsDevil ^^*
+ * [*! tombsDevil ⸸*](https://twitter.com/tombs_Devil?s=09)
  * [MarkZuel](https://www.youtube.com/watch?v=69-WfrVBli8) (*Vídeo como inspiração*)
 
 ##### Ps: Fiquem à vontade em usar este repositório! Caso se interesse em fazer alguma alteração aqui crie um fork e solicite a pull request. ^^
